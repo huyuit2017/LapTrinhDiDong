@@ -1,0 +1,10 @@
+module.exports = {
+  addProductToCart: null,
+  productsInCart: [],
+  incrQuantity: null,
+  decrQuantity: null,
+  removeProduct: null,
+  onSignIn: null,
+  gotoSearch: null,
+  setArraySearch: null,
+};
